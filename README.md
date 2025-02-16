@@ -5,5 +5,4 @@
 [+] - fix spammer,leaver,menu
 [+] - оптимизация raid-tool 
 [+] - bypass rate-limit.
-```**
-"""
+
