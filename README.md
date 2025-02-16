@@ -6,3 +6,4 @@
 [+] - оптимизация raid-tool 
 [+] - bypass rate-limit.
 
+![Screenshot_12](https://github.com/user-attachments/assets/a42fc1f9-8527-4ce2-9490-356f81a9ecea)
