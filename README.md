@@ -4,7 +4,7 @@ SelfPro recode вместилась можете скачивать с github и
 > Обновление/Update 18.04.2025
 ```diff
 [+] - fix inviter
-[+] - added command ButtonClicker
+[+] - added command buttonclicker
 [+] - bypass rate-limit.
 ```
 
