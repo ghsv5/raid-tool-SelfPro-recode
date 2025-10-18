@@ -1,10 +1,11 @@
 SelfPro recode - вы скачиваете это все на свой страх и риск отвественность за это я не несу!
 
+> Сделано с любовью ради .k1ttyxx. 
+
 Выражаем огромную благодарность всем, кто участвовал в проекте: TerminalPR0, mizukika, xdearboy, welcometohell0600, а также vlad2ex. Без их вклада и поддержки проект вряд ли бы состоялся.
-![Screenshot_1](https://github.com/user-attachments/assets/267d1529-abb8-4332-80bc-7928ca7524de)
-> Обновление/Update 09.09.2025
+<img width="785" height="413" alt="image" src="https://github.com/user-attachments/assets/ab4cc3ea-6287-46b7-b5e8-f78ac4e02f82" />
+> Обновление/Update 18.10.2025
 ```diff
-[+] - added new Spotify spam function
-[+] - added Exit
+[+] - fix Joiner
 [+] - bypass rate-limit.
 ```
