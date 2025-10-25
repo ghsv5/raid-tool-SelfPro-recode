@@ -1,3 +1,5 @@
+**Languages:** Русский 🇷🇺 | [English 🇬🇧](./README.en.md)
+
 > [!CAUTION]
 >
 > ### SelfPro recode
