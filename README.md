@@ -29,9 +29,6 @@
 
 Вы можете поддержать проект, поставив :star: этому репозиторию (сверху справа этой страницы)
 
-<a href="https://star-history.com/#ghsv5/raid-tool-SelfPro-recode&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ghsv5/raid-tool-SelfPro-recode&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ghsv5/raid-tool-SelfPro-recode&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ghsv5/raid-tool-SelfPro-recode&type=Date" />
- </picture>
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ghsv5/raid-tool-SelfPro-recode&type=date&legend=top-left)](https://www.star-history.com/#ghsv5/raid-tool-SelfPro-recode&type=date&legend=top-left)
