@@ -15,7 +15,8 @@
 
 
 > Without their contribution and support, this project probably wouldn’t exist.
-<img width="1159" height="673" alt="image" src="https://github.com/user-attachments/assets/674b039d-ff44-491e-ad5c-c63c39ad5d42" />
+<img width="980" height="514" alt="image" src="https://github.com/user-attachments/assets/0e5e68f7-78f0-4bd8-9c2f-6664baacbbeb" />
+
 
 > Update — 18.10.2025
 ```diff
