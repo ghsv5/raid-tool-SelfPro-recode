@@ -16,7 +16,8 @@
 
 > 
 > Без их вклада и поддержки проект вряд ли бы состоялся.
-![Uploading image.png…]()
+<img width="980" height="514" alt="image" src="https://github.com/user-attachments/assets/64bfcb0b-c883-4e7d-b903-d8ef138ea650" />
+
 
 
 > Обновление 18.10.2025
