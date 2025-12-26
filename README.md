@@ -20,9 +20,11 @@
 
 
 
-> Обновление 18.10.2025
+> Обновление 26.12.2025
 ```diff
-[+] - fix Joiner
+[+] - fix ButtonClicker, Reaction
+[+] - added bypass Component v2
+[+] - added scraper messages and spam scrap messagess
 [+] - bypass rate-limit.
 ```
 
