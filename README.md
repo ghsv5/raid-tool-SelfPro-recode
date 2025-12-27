@@ -16,15 +16,15 @@
 
 > 
 > Без их вклада и поддержки проект вряд ли бы состоялся.
-<img width="980" height="514" alt="image" src="https://github.com/user-attachments/assets/64bfcb0b-c883-4e7d-b903-d8ef138ea650" />
+<img width="982" height="516" alt="image" src="https://github.com/user-attachments/assets/e1dc298e-d823-49ad-87a6-547fc0d8b398" />
 
 
 
-> Обновление 26.12.2025
+
+> Обновление 27.12.2025
 ```diff
-[+] - fix ButtonClicker, Reaction
-[+] - added bypass Component v2
-[+] - added scraper messages and spam scrap messagess
+[+] - fix ButtonClicker
+[+] - added Onboarding
 [+] - bypass rate-limit.
 ```
 
