@@ -15,12 +15,14 @@
 
 
 > Without their contribution and support, this project probably wouldn’t exist.
-<img width="980" height="514" alt="image" src="https://github.com/user-attachments/assets/0e5e68f7-78f0-4bd8-9c2f-6664baacbbeb" />
+<img width="982" height="516" alt="image" src="https://github.com/user-attachments/assets/6efc9ea6-30a8-46f8-b679-8a87a6460859" />
 
 
-> Update — 18.10.2025
+
+> Update — 27.12.2025
 ```diff
-[+] - fixed Joiner
+[+] - fixed Reaction
+[+] - added Onboarding
 [+] - bypassed rate limit
 ```
 ## ⭐ Support the project
