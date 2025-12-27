@@ -23,7 +23,7 @@
 
 > Обновление 27.12.2025
 ```diff
-[+] - fix ButtonClicker
+[+] - fixed Reaction
 [+] - added Onboarding
 [+] - bypass rate-limit.
 ```
