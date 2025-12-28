@@ -16,15 +16,15 @@
 
 > 
 > Без их вклада и поддержки проект вряд ли бы состоялся.
-<img width="982" height="516" alt="image" src="https://github.com/user-attachments/assets/e1dc298e-d823-49ad-87a6-547fc0d8b398" />
+<img width="983" height="514" alt="image" src="https://github.com/user-attachments/assets/27fe5c78-351a-4dc1-907a-1abdb07fd478" />
 
 
 
 
-> Обновление 27.12.2025
+
+> Обновление 28.12.2025
 ```diff
-[+] - fixed Reaction
-[+] - added Onboarding
+[+] - added Developer Mode, Server Booster, SetLocale, Avatar Changer, Dm Spammer, Accent Color Changer, Friend Adder
 [+] - bypass rate-limit.
 ```
 
