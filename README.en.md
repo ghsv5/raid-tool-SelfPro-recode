@@ -19,11 +19,10 @@
 
 
 
-> Update — 27.12.2025
+> Update — 28.12.2025
 ```diff
-[+] - fixed Reaction
-[+] - added Onboarding
-[+] - bypassed rate limit
+[+] - added Developer Mode, Server Booster, SetLocale, Avatar Changer, Dm Spammer, Accent Color Changer, Friend Adder
+[+] - bypass rate-limit.
 ```
 ## ⭐ Support the project
 
