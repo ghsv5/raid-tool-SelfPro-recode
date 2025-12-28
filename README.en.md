@@ -15,7 +15,7 @@
 
 
 > Without their contribution and support, this project probably wouldn’t exist.
-<img width="982" height="516" alt="image" src="https://github.com/user-attachments/assets/6efc9ea6-30a8-46f8-b679-8a87a6460859" />
+<img width="985" height="515" alt="image" src="https://github.com/user-attachments/assets/7402b136-d1e1-4b5a-81ca-450ec28ba5af" />
 
 
 
