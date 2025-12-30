@@ -16,15 +16,16 @@
 
 > 
 > Без их вклада и поддержки проект вряд ли бы состоялся.
-<img width="983" height="514" alt="image" src="https://github.com/user-attachments/assets/27fe5c78-351a-4dc1-907a-1abdb07fd478" />
+<img width="983" height="515" alt="image" src="https://github.com/user-attachments/assets/ce77b545-34d6-4e42-86f4-c5ea5236c10e" />
 
 
 
 
 
-> Обновление 28.12.2025
+
+> Обновление 30.12.2025
 ```diff
-[+] - added Developer Mode, Server Booster, SetLocale, Avatar Changer, Dm Spammer, Accent Color Changer, Friend Adder
+[+] - added Soundboard Spam
 [+] - bypass rate-limit.
 ```
 
